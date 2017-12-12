@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/imanol
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.imanol.tech
+  * I am imanol (https://keybase.io/imanol) on keybase.
+  * I have a public key ASCIfKjcXY_6DKAw5Cdt5-grnQqW2Zna9RT6mLgfCJGJsQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120887ca8dc5d8ffa0ca030e4276de7e82b9d0a96d999daf514fa98b81f089189b10a",
+      "host": "keybase.io",
+      "kid": "0120887ca8dc5d8ffa0ca030e4276de7e82b9d0a96d999daf514fa98b81f089189b10a",
+      "uid": "594df69e729637f0d5c5ac42b4cc7a19",
+      "username": "imanol"
+    },
+    "merkle_root": {
+      "ctime": 1513068465,
+      "hash": "3e48908d85ad9688815db60c1b7d529a644b4d2fa67366626b7751a067f945892908c774bda96253c442ffd092ba35d6f6c8d8b14dd0ddcfce961ea84a5b64f4",
+      "hash_meta": "05dc6c6ad3efc4050cbc1891865bfdd8fb172a13a4aa9aefd5a015e9b6b6e55b",
+      "seqno": 1806558
+    },
+    "service": {
+      "hostname": "www.imanol.tech",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1513068497,
+  "expire_in": 504576000,
+  "prev": "d892cfd690a5caa61d83073803e4d78f74c8408b3a65c9653c8fa7ae4ff94264",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiHyo3F2P+gygMOQnbefoK50KltmZ2vUU+pi4HwiRibEKp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODg3Y2E4ZGM1ZDhmZmEwY2EwMzBlNDI3NmRlN2U4MmI5ZDBhOTZkOTk5ZGFmNTE0ZmE5OGI4MWYwODkxODliMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODg3Y2E4ZGM1ZDhmZmEwY2EwMzBlNDI3NmRlN2U4MmI5ZDBhOTZkOTk5ZGFmNTE0ZmE5OGI4MWYwODkxODliMTBhIiwidWlkIjoiNTk0ZGY2OWU3Mjk2MzdmMGQ1YzVhYzQyYjRjYzdhMTkiLCJ1c2VybmFtZSI6ImltYW5vbCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMzA2ODQ2NSwiaGFzaCI6IjNlNDg5MDhkODVhZDk2ODg4MTVkYjYwYzFiN2Q1MjlhNjQ0YjRkMmZhNjczNjY2MjZiNzc1MWEwNjdmOTQ1ODkyOTA4Yzc3NGJkYTk2MjUzYzQ0MmZmZDA5MmJhMzVkNmY2YzhkOGIxNGRkMGRkY2ZjZTk2MWVhODRhNWI2NGY0IiwiaGFzaF9tZXRhIjoiMDVkYzZjNmFkM2VmYzQwNTBjYmMxODkxODY1YmZkZDhmYjE3MmExM2E0YWE5YWVmZDVhMDE1ZTliNmI2ZTU1YiIsInNlcW5vIjoxODA2NTU4fSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5pbWFub2wudGVjaCIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzcifSwiY3RpbWUiOjE1MTMwNjg0OTcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZDg5MmNmZDY5MGE1Y2FhNjFkODMwNzM4MDNlNGQ3OGY3NGM4NDA4YjNhNjVjOTY1M2M4ZmE3YWU0ZmY5NDI2NCIsInNlcW5vIjoxNSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBv0nbWkpnkCS2f2coXC/mkyU2Ks5cLBPCjzbHSqowXOWceRqGuEHWQ8NUXFy4ZSaV06/KUQ5RZmz7X58dNzl8IqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg95V5Zbga6CcNWuOBuQzuc0Vv7SO3HuD9pTCsu9fwmvmjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/imanol
+
+==================================================================
